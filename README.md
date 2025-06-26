@@ -1,16 +1,13 @@
-## Hi there 👋
+# hey, i'm jollified 👋  <br>
+ 💻 otherwise known as **jolly**, or [**SlurpeeMaster19**](https://www.roblox.com/users/182980293/profile) on other platforms. <br>
+ 🎮 i make chaotic, clever, and creative games on the roblox platform <br>
+ 🔥 i'm also the founder and owner of chumblebeef studios!
+### 🔧 tools I use:
+>luau / roblox studio for games <br>
+>python for smaller, more utility based projects <br>
+>c++ for hardware using arduinos <br>
+>blender 3d for making 3d models and animations to use in my projects.
 
-<!--
-**jollified/jollified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- if you ever feel the need to contact me, my discord username is `@jollyguy.`, and my roblox username is `SlurpeeMaster19`.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+wanna see what i’m up to? scroll down!
