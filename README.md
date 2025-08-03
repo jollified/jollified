@@ -9,5 +9,3 @@
 >blender 3d for making 3d models and animations to use in my projects.
 
 - if you ever feel the need to contact me, my discord username is `@jollyguy.`, and my roblox username is `SlurpeeMaster19`.
-
-wanna see what i’m up to? scroll down!
