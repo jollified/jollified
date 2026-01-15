@@ -10,5 +10,5 @@
 >notion to organize my thoughts
 >currently learning godot
 
-- if you ever feel the need to contact me, my discord username is `@jollliest.`, and my roblox username is `joliified`.
+- if you ever feel the need to contact me, my discord username is `@jollliest.`, and my roblox username is `@joliified`.
 - my scripting and 3d commissions are open, so feel free to ask if you need anything.
