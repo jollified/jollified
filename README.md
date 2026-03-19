@@ -3,7 +3,7 @@
  i make silly experiences on the roblox platform <br>
  i'm also the founder and owner of chumblebeef studios!
 ###  tools I use:
->luau / roblox studio for games <br>
+>lua for roblox experiences and tools<br>
 >python for smaller projects <br>
 >blender 3d for making 3d models and animations to use in my projects <br>
 >notion to organize my thoughts
