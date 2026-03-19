@@ -1,5 +1,5 @@
 # hey, i'm jollified 👋  <br>
- otherwise known as **jolliest**, or [**jolly**](https://www.roblox.com/users/182980293/profile) on other platforms. <br>
+ otherwise known as [**jolliest**](https://discordapp.com/users/411326865899257856), or [**jolly**](https://www.roblox.com/users/182980293/profile) on other platforms. <br>
  i make silly experiences on the roblox platform <br>
  i'm also the founder and owner of chumblebeef studios!
 ###  tools I use:
