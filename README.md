@@ -7,7 +7,8 @@
 >python for smaller projects <br>
 >blender 3d for making 3d models and animations to use in my projects <br>
 >notion to organize my thoughts <br>
->currently learning c# and godot
+>currently learning c# and godot <br>
+>i also have experience in c and javascript
 
 - if you ever feel the need to contact me, my discord username is `@jollliest.`, and my roblox username is `@joliified`.
 - my scripting commissions are open, so feel free to ask if you need anything.
