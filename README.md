@@ -7,7 +7,7 @@
 ###  tools i use:
 
 [![Tools](https://skillicons.dev/icons?i=git,github,blender,discord,dotnet,godot,notion)](https://skillicons.dev)
-[![Tools](https://skillicons.dev=icons?i=robloxstudio,vscode,windows,ps,pr)](https://skillicons.dev)
+[![Toolstwo](https://skillicons.dev=icons?i=robloxstudio,vscode,windows,ps,pr)](https://skillicons.dev)
 - if you ever feel the need to contact me, my discord username is `@jollliest.`, and my roblox username is `@joliified`.
 - my scripting commissions are open, so feel free to ask if you need anything.
 - my website: https://jollified.dev
