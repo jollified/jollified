@@ -10,4 +10,3 @@
 [![Toolstwo](https://skillicons.dev/icons?i=robloxstudio,vscode,windows,ps,pr)](https://skillicons.dev)
 - if you ever feel the need to contact me, my discord username is [@jollliest_](https://discord.com/users/411326865899257856), and my roblox username is [@joliified](https://www.roblox.com/users/182980293/profile).
 - my scripting commissions are open, so feel free to ask if you need anything.
-- my website: https://jollified.dev
