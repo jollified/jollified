@@ -2,7 +2,7 @@
  otherwise known as [**jolly**](https://discordapp.com/users/411326865899257856). <br>
  I like to make games and tools that anyone can enjoy.
 ###  languages i use:
-[![Languages](https://skillicons.dev/icons?i=py,c,cs,html,css,lua)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,c,cs,lua,html,css,js)](https://skillicons.dev)
 
 ###  tools I use:
 
